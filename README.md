@@ -16,10 +16,10 @@
   9) [License](#license)
   ## Installation
   ___
-  Make sure node.js is installed on local server and run node index.js
+  Make sure node.js is installed on local computer and clone repo to project directory on local computer. Install all required dependencies for the project by entering code `npm install` Then proceed to run node index.js. 
   ## Usage
   ___
-  to create a Readme for a project in markdown.
+  To create a Readme for a project in markdown using inquirer package and questions.
   ## Video
   ___
   [![Demo Video](images/project.PNG)](https://drive.google.com/file/d/1ypcI3upMXpIMX7kNFrOk0uY3qHIKrTzB/view?usp=sharing "Demo Video")
