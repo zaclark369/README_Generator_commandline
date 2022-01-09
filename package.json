@@ -1,0 +1,22 @@
+{
+  "name": "readme_generator_commandline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaclark369/README_Generator_commandline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaclark369/README_Generator_commandline/issues"
+  },
+  "homepage": "https://github.com/zaclark369/README_Generator_commandline#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
