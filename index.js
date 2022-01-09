@@ -63,14 +63,11 @@ const questions = () => {
         name: 'license',
         message: 'Enter the license for your project: ',
         choices: [
-          'GNU AGPLv3',
+          'Artistic',
+          'Creative Commons',
           'GNU GPLv3',
-          'GNU LGPLv3',
-          'Mozilla Public License 2.0',
-          'Apache License 2.0',
-          'MIT License',
-          'Boost Software License 1.0',
-          'The Unlicense',
+          'MIT',
+          'Mozilla',
           'none',
         ],
     }
