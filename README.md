@@ -22,7 +22,7 @@
   to create a Readme for a project in markdown.
   ## Video
   ___
-  [![Demo Video](images/project.png)](images/videos/usage.mp4.webm "Demo Video")
+  [![Demo Video](images/project.png)](https://drive.google.com/file/d/1ypcI3upMXpIMX7kNFrOk0uY3qHIKrTzB/view?usp=sharing "Demo Video")
   ## Collaboration:
   ___
   If you would like to help, please follow the [Contributor Covenant](https://www.contributor-covenant.org/)
