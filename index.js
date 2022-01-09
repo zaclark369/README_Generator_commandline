@@ -34,29 +34,29 @@ const questions = () => {
     },
     {
         type: 'input',
-        name: 'tests',
+        name: 'test',
         message: 'Enter the test methods for your project',
         default: 'N/A',
       },
       {
         type: 'input',
         name: 'video',
-        message: 'Enter the pathname for the usage video of your project',
+        message: 'Enter the path for the usage video of your project',
       },
       {
         type: 'input',
         name: 'image',
-        message: 'Enter the pathname for the image of your video',
+        message: 'Enter the path for the image of your video',
       },
       {
         type: 'input',
-        name: 'video',
-        message: 'Enter the pathname for the usage video of your project',
+        name: 'github',
+        message: 'Enter your github username: ',
       },
       {
         type: 'input',
-        name: 'image',
-        message: 'Enter the pathname for the image of your video',
+        name: 'email',
+        message: 'Enter the email address for this project: ',
       },
       {
         type: 'list',
